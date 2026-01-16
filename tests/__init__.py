@@ -1,0 +1,1 @@
+# Cardmarket Scanner Tests
